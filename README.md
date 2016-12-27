@@ -4,9 +4,9 @@ This repository contains a mixture of standalone classes that assist iOS Swift D
 #JSONExtensions
 These are extensions that allow converting JSONStrings to the following formats:
 
-* JSONArray - Array<AnyObject>?
-* JSONDictionary - Dictionary<String, AnyObject>?
-* JSONDictionaryArray - Array<Dictionary<String, AnyObject>>?
+* JSONArray - Array\<AnyObject>?
+* JSONDictionary - Dictionary\<String, AnyObject>?
+* JSONDictionaryArray - Array\<Dictionary<String, AnyObject>>?
 
 
 #StringExtensions
