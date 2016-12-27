@@ -6,7 +6,7 @@ These are extensions that allow converting JSONStrings to the following formats:
 
 * JSONArray - Array\<AnyObject>?
 * JSONDictionary - Dictionary\<String, AnyObject>?
-* JSONDictionaryArray - Array\<Dictionary<String, AnyObject>>?
+* JSONDictionaryArray - Array\<Dictionary\<String, AnyObject>>?
 
 
 #StringExtensions
